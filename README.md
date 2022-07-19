@@ -1,5 +1,7 @@
 # TSPLang
 
+> Introduced in TEK AEU2022. Let's try how to it!! 2022.07.19
+
 [![build](https://travis-ci.com/tektronix/vscode-tsplang.svg?branch=master)](https://travis-ci.com/tektronix/vscode-tsplang)
 [![codecov](https://codecov.io/gh/tektronix/vscode-tsplang/branch/master/graph/badge.svg)](https://codecov.io/gh/tektronix/vscode-tsplang)
 
